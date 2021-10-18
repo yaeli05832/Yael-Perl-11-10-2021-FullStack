@@ -1,0 +1,242 @@
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\server.exe
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\server.deps.json
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\server.runtimeconfig.json
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\server.dll
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\server.Views.dll
+C:\Users\User\Desktop\yaeli\server\server\bin\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.xml
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\scopedcss\bundle\server.styles.css
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.TagHelpers.input.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.TagHelpers.output.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.RazorCoreGenerate.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.dll
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.genruntimeconfig.cache
+C:\Users\User\Desktop\yaeli\server\server\obj\Debug\net5.0\server.csproj.CopyComplete
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\server.deps.json
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\server.runtimeconfig.json
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\server.exe
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\server.dll
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\server.Views.dll
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\bin\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.xml
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\scopedcss\bundle\server.styles.css
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.TagHelpers.input.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.TagHelpers.output.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.RazorCoreGenerate.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.dll
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.genruntimeconfig.cache
+C:\Users\User\Desktop\yaeli\גיבוי\server\server\obj\Debug\net5.0\server.csproj.CopyComplete
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\server.exe
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\server.deps.json
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\server.runtimeconfig.json
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\server.dll
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\server.Views.dll
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\bin\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.xml
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\scopedcss\bundle\server.styles.css
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.TagHelpers.input.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.TagHelpers.output.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.RazorCoreGenerate.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.dll
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.genruntimeconfig.cache
+C:\Users\User\Desktop\yaeli\גיבוי\Test\server\server\obj\Debug\net5.0\server.csproj.CopyComplete
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\server.exe
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\server.deps.json
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\server.runtimeconfig.json
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\server.dll
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\server.Views.dll
+C:\Users\User\Desktop\test\server\server\bin\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.xml
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\scopedcss\bundle\server.styles.css
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.TagHelpers.input.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.TagHelpers.output.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.RazorCoreGenerate.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.dll
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.genruntimeconfig.cache
+C:\Users\User\Desktop\test\server\server\obj\Debug\net5.0\server.csproj.CopyComplete
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\server.exe
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\server.deps.json
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\server.runtimeconfig.json
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\server.dll
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\server.Views.dll
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.xml
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\scopedcss\bundle\server.styles.css
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.TagHelpers.input.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.TagHelpers.output.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.RazorCoreGenerate.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.dll
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.genruntimeconfig.cache
+C:\Users\User\Desktop\‏‏test - עותק\server\server\obj\Debug\net5.0\server.csproj.CopyComplete
+C:\Users\User\Desktop\‏‏test - עותק\server\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\server.exe
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\server.deps.json
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\server.runtimeconfig.json
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\server.dll
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\server.Views.dll
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\testtest\server\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.xml
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\scopedcss\bundle\server.styles.css
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.TagHelpers.input.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.TagHelpers.output.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.RazorCoreGenerate.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.Views.pdb
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.dll
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\ref\server.dll
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.pdb
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.genruntimeconfig.cache
+C:\Users\User\Desktop\testtest\server\server\obj\Debug\net5.0\server.csproj.CopyComplete
